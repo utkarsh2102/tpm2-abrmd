@@ -1,3 +1,9 @@
+tpm2-abrmd (2.3.1-1~ibmcloud0.2) bionic; urgency=medium
+
+  * No-change rebuild w/ tpm2-{tss,tools}.
+
+ -- Utkarsh Gupta <utkarsh.gupta@canonical.com>  Fri, 23 Jul 2021 02:06:21 +0530
+
 tpm2-abrmd (2.3.1-1~ibmcloud0.1) bionic; urgency=medium
 
   * Add custom delta for IBM Cloud
